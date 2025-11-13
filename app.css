@@ -1,16 +1,16 @@
 
 .one1{
-    border: 5px solid red;
+    border: 5px solid rgb(0, 255, 30);
     height: 150px;
     width: 500px;
 }
 .one2{
-    border: 5px solid red;
+    border: 5px solid rgb(9, 255, 0);
     height: 150px;
     width: 500px;
 }
 .one3{
-    border: 5px solid red;
+    border: 5px solid rgb(0, 255, 166);
     height: 150px;
     width: 500px;
 }
